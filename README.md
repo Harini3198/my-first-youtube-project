@@ -22,6 +22,10 @@
 
 ## demo images of my project
 
-<img src=""C:\Users\harin\OneDrive\Pictures\Screenshots\Screenshot 2024-06-01 180516.png" alt="collecting data" width="500" height="600">
+![Screenshot 2024-06-01 180516](https://github.com/Harini3198/my-first-youtube-project/assets/169538709/bfb126b0-5826-4156-9833-5d6af4ee4ef8)
+
+##### Enter a channel ID and click the "collect and store data" button to store all the data to mongodb
+
+
 
 
